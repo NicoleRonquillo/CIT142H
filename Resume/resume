@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"content='width=device-width,initial-scale=1.0'>
+    <title>Resume</title>
+</head>
+<body>
+    <h1>Resume</h1>
+    <img src="https://scontent.fmnl25-1.fna.fbcdn.net/v/t39.30808-6/350367506_932005871424723_881899842143338876_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=aVYXE1HhJjUAX_eyhrD&_nc_ht=scontent.fmnl25-1.fna&oh=00_AfDi-D34HWHv7EJFfv42bsVeCH7ugyJXJjzDyh1rOcvn-Q&oe=6509F22B"
+    width="250"
+    height="250">
+    <h2>Personal Information</h2>
+    <ul>
+        <li>Name: Nicole Therese O. Ronquillo</li>
+        <li>Address: Bakakeng old site,Baguio City</li>
+        <li>Email:nicolethereseronquillo@gmail.com</li>
+        <li>Contact Number:09770550003</li>
+    </ul>
+    <h3>Education</h3>
+    <ul>
+        <li>BS in Information Technology
+        <li>(Major in Web development)</li>
+        <li> University of the Cordilleras(2022-2023)</li>
+        </li>
+    </ul>
+    <h4>Technical Skills</h4>
+    <ul>
+        <li>Web Development and Web Design</li>
+        <li>Programming and front end coding</li>
+        <li>Graphic design and Video Editing</li>
+    </ul>
+    <h4>Professional Skills</h4>
+    <ul>
+        <li>Excellent English skills</li>
+        <li>High level of maturity and responsibility</li>
+        <li>Highly resourceful,objective and reliable</li>
+        <li>Ability to work in a team driven environment</li>
+    </ul>
+
+</body>
+</html>
