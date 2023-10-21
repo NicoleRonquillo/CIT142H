@@ -1,0 +1,14 @@
+image{
+    max-width:100px;
+    max-height:fit content;
+    align-items: center;
+}
+image{
+    max-width: 100px;
+    max-height: fit content;
+    align-items: center;
+    display: block;
+}
+li{
+    text-align: center ;
+}
