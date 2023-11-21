@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    }
+    
+
+    .box {
+    float: left;
+    float: right;
+    float: none;
+    float: inline-start;
+    float: inline-end;
+    width: 33.33%;
+    padding: 50px;
+    }
+  
