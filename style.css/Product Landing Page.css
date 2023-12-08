@@ -1,9 +1,10 @@
 #header {
-    background-color: #333;
-    color: #fff;
+    background-color: orange;
+    color: orange;
     padding: 10px;
     position: sticky;
     left: 0;
+    
 }
 
 #nav-bar {
@@ -61,12 +62,12 @@
 p{
     font-size: 25px;
 }
-.Hot{
+.Hinata{
     background-color: #B90E0A;
 }
-.Cute{
+.Kageyama{
     background-color: #E75480;
 }
-.Tsun{
+.Tsukishima{
     background-color: #9a7b4f;
 }
